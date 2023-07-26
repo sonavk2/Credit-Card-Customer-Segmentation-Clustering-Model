@@ -37,3 +37,7 @@ variables.
 17. PRCFULLPAYMENT : Percent of full payment paid by user
 18. TENURE : Tenure of credit card service for user
 
+## Contents
+1. EDA: Data Cleaning and preprocessing steps
+2. PCA Dimensionality Reduction
+3. Models: K-Means, Hierarchical Clustering and DBSCAN were trained and evaluated.
