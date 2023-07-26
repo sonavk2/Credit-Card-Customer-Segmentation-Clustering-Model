@@ -13,6 +13,15 @@ This project required **Python** and the following Python libraries installed:
 ## Objective
 The main objective of this analysis is to identify patterns or clusters that can provide insights into customer behavior or credit card usage patterns to aid with marketing strategies. 
 
+## Contents
+1. Data Cleaning and preprocessing steps
+2. EDA
+3. PCA Dimensionality Reduction
+4. Models Trained and Evaluated
+- K-Means
+- Hierarchical Clustering
+- DBSCAN 
+
 ## Data
 The chosen dataset is from Kaggle(https://www.kaggle.com/datasets/arjunbhasin2013/ccdata), which includes information on the usafe behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral 
 variables. 
@@ -36,8 +45,3 @@ variables.
 16. MINIMUM_PAYMENTS : Minimum amount of payments made by user
 17. PRCFULLPAYMENT : Percent of full payment paid by user
 18. TENURE : Tenure of credit card service for user
-
-## Contents
-1. EDA: Data Cleaning and preprocessing steps
-2. PCA Dimensionality Reduction
-3. Models: K-Means, Hierarchical Clustering and DBSCAN were trained and evaluated.
